@@ -1,0 +1,68 @@
+[
+  {
+    "chat_id": 6070575041,
+    "name": "Apni dukaan",
+    "location": {
+      "lat": 37.421993,
+      "lon": -122.084008
+    },
+    "products": [
+      {
+        "name": "Dal",
+        "price": 20.0,
+        "stock": "70kg",
+        "keywords": [
+          "Dal"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "chat_id": 6070575041,
+    "name": "Testing dukaan",
+    "location": {
+      "lat": 26.133529,
+      "lon": 26.133529
+    },
+    "products": [
+      {
+        "name": "Dal",
+        "price": 20.0,
+        "stock": "70kg",
+        "keywords": [
+          "Dal"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Atta",
+        "price": 90.0,
+        "stock": "10kg",
+        "keywords": [
+          "Atta"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "chat_id": 5042864994,
+    "name": "kaushik",
+    "location": {
+      "lat": 37.421993,
+      "lon": -122.084008
+    },
+    "products": [
+      {
+        "name": "Rice",
+        "price": 80.0,
+        "stock": "40kg",
+        "keywords": [
+          "Rice"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]
