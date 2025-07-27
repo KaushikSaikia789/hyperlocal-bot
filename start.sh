@@ -1,2 +1,2 @@
 #!/bin/bash
-python customer_bot.py
+python vendor_bot.py
