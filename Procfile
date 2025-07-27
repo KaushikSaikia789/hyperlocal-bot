@@ -1,1 +1,1 @@
-web: python customer_bot.py
+worker: bash start.sh
