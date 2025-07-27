@@ -1,2 +1,4 @@
-python-telegram-bot==20.3
+python-telegram-bot==20.7
+requests
 geopy
+psycopg2-binary
